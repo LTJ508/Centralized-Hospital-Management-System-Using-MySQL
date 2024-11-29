@@ -1,5 +1,9 @@
 # Centralized-Hospital-Management-System-Using-MySQL
 
+# Idea of this project belongs to: Sazid Hasan Shafin
+Thanks for this idea, which was not available on the online sites.
+
+## To run this project:
 <br>01. Create a Database by the name of "chms"
 
 <br>02. Import the SQL file name "chms.sql"
